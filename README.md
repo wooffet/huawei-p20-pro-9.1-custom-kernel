@@ -1,6 +1,6 @@
 # Huawei P20 Pro EMUI 9.1 Custom Kernel
 
-This is the custom kernel I am currently using on my personal P20 Pro, which disables as much root checking as possible and starts SELinux in permissive mode.
+This is the custom kernel I am working on to use on my personal P20 Pro, which disables as much root checking as possible and starts SELinux in permissive mode.
 
 The original kernel source code is available at: <https://download-c1.huawei.com/download/downloadCenter?downloadId=101178&version=439689&siteCode=worldwide>
 
